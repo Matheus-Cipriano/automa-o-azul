@@ -8,5 +8,5 @@ Cenario: entrar no site e efetuar uma compra
 		E seleciono as datas
 		E seleciono uma passagem 
 		E digito os dados dos passageiros
-		Entao seleciono uma poutrona disponivel
+		Entao seleciono uma poltrona disponivel
 		E clico na checkbox e confirmo a reserva
